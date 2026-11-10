@@ -1,0 +1,1 @@
+https://github.com/qgis/QGIS-Documentation/tree/master
