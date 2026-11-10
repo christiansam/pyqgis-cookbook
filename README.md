@@ -1,13 +1,20 @@
 https://github.com/qgis/QGIS-Documentation/tree/master
 
-## 1
-Contents of: ./QGIS-Documentation_qgis-projects/python_cookbook/
-moved to: ./notebook/testdata/
+## Step 1
+* Contents of: ./QGIS-Documentation_qgis-projects/python_cookbook/
+* have been moved to: ./notebook/testdata/
 
-## 2
+## Step 2
 ![1_qgis_project](./QGIS-Documentation_qgis-projects/1_qgis_project.png)
 ![2_qgis_notebook+qgis_pythonconsole](./QGIS-Documentation_qgis-projects/2_qgis_notebook+qgis_pythonconsole.png)
-![3_qgis_select-airports_run-nb-to-line14](./QGIS-Documentation_qgis-projects/3_qgis_select-airports_run-nb-to-line14.png)
+
+## Step 3
+* select airports layer
+* zoom in, till airport features become visible/active
+* run notebook to #10 (select all) or #16 (select fid)
+* airports layer > context-menu > zoom to selected
+
+![3_qgis_select-airports_zoom-in_run-nb](./QGIS-Documentation_qgis-projects/3_qgis_select-airports_zoom-in_run-nb.png)
 
 ---
 
